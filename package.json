@@ -1,0 +1,8 @@
+{
+  "name": "djokoetcie",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/gabiLaure/djokoetcie.git",
+  "author": "Laure Cabrelle <yvesjordan06@gmail.com>",
+  "license": "MIT"
+}
